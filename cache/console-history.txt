@@ -1,0 +1,2 @@
+factory.interface.deploy.inputs
+const factory = await ethers.getContractFactory("GomokuNFT");
